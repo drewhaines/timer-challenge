@@ -1,0 +1,14 @@
+body, html{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#start, #stop {
+  margin-top: 50px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+#timer {
+  font-size: 50px;
+  margin-top: 50px;
+}
